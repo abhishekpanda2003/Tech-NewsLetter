@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tech-NewsLetter/static/css/main.46679cb9.css",
+    "main.js": "/Tech-NewsLetter/static/js/main.551abcea.js",
+    "index.html": "/Tech-NewsLetter/index.html",
+    "main.46679cb9.css.map": "/Tech-NewsLetter/static/css/main.46679cb9.css.map",
+    "main.551abcea.js.map": "/Tech-NewsLetter/static/js/main.551abcea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46679cb9.css",
+    "static/js/main.551abcea.js"
+  ]
+}
