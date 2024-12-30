@@ -3,7 +3,7 @@ import React, { useContext, useReducer, useEffect } from "react";
 import reducer from "./reducer";
 
 // Base API URL for fetching news stories
-let API = "http://hn.algolia.com/api/v1/search?";
+let API = "https://hn.algolia.com/api/v1/search?";
 
 // Initial state for the context
 const initialState = {
